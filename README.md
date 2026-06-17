@@ -1,6 +1,6 @@
 # Paulo Roberto Rogerio
 
-**QA Automation Engineer | Manual QA discipline, automation mindset and AI-assisted creativity**
+**QA Automation Engineer | Manual QA discipline, automation mindset and AI motion**
 
 Based in Braga, Portugal, I help teams turn product risk into clear release signal: readable test scenarios, API validation, backend/data checks, bug investigation, evidence, reports and automation that actually supports delivery.
 
@@ -11,7 +11,7 @@ I started from manual testing, grew into automation, and keep the human side of 
 - **Automation:** Playwright, Cypress, Selenium WebDriver, TypeScript, Java, Python
 - **API and data:** Rest Assured, Postman, SQL, response validation, contract checks
 - **QA practice:** Manual testing, BDD/Cucumber, regression, smoke, exploratory testing, Jira, Xray, Allure
-- **Creative edge:** AI-assisted QA documentation and original AI animation experiments
+- **Creative edge:** AI motion direction, original animation concepts and portfolio-ready visual polish
 - **Public rule:** no employer code, no private endpoints, no customer data, no internal screenshots
 
 ## Featured Work
@@ -35,9 +35,9 @@ Small, focused repos that show the foundation behind the showcase:
 
 ## Contact
 
-- Email: [paulosince88@icloud.com](mailto:paulosince88@icloud.com)
-- LinkedIn: [linkedin.com/in/rogeriopaulo88](https://linkedin.com/in/rogeriopaulo88)
-- WhatsApp: [+351 937 778 258](https://wa.me/351937778258?text=Hi%20Paulo%2C%20I%20saw%20your%20QA%20portfolio%20and%20would%20like%20to%20talk.)
+- [Email me](mailto:paulosince88@icloud.com)
+- [LinkedIn](https://linkedin.com/in/rogeriopaulo88)
+- [WhatsApp](https://wa.me/351937778258?text=Hi%20Paulo%2C%20I%20saw%20your%20QA%20portfolio%20and%20would%20like%20to%20talk.)
 
 ---
 
